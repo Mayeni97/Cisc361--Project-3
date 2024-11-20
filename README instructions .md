@@ -1,9 +1,6 @@
 
 # 24F-CISC361-010  
-**Project 3 - Digging into Xv6**  
-**Due:** Oct 18 by 11:59pm  
-**Points:** 100  
-
+**Project 3 - Digging into Xv6** 
 ---
 
 ## Overview  
@@ -86,6 +83,3 @@ This project can be completed on the class VM. All required software (except Xv6
 
 ---
 
-## Submission  
-Submit the project in the repository located at:  
-[Team 17 Capstone Repository](https://gitlab.eecis.udel.edu/cisc-capstone-teams/2024-2025/team-17/cisc361-xv6).  
